@@ -1,4 +1,4 @@
-City,latitude,longitude,aqi
+City,Latitude,Longitude,AQI
 Santiago,-33.4489,-70.6693,156
 Dhaka,23.8103,90.4125,152
 Beijing,39.9042,116.4074,138
@@ -42,7 +42,7 @@ Taipei,25.033,121.5654,50
 Chengdu,30.5728,104.0668,48
 Los Angeles,34.0522,-118.2437,48
 Madrid,40.4168,-3.7038,46
-Washington,D.C.,38.9072,-77.0379
+Washington D.C,38.9072,-77.0379,48
 Nice,43.7102,7.262,43
 Algiers,36.7372,3.0865,41
 Ho Chi Minh City,10.8231,106.6297,41
